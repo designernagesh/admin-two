@@ -1,7 +1,7 @@
 const sidebarData = [
     {
         "brand": {
-            "text": "AdminSite",
+            "text": "Admin Two",
             "icon": "bx bxs-smile icon"
         },
         "menuItems": [
